@@ -35,7 +35,7 @@ section{
 #header{
     width: 100%;
     height:100vh ;
-    background-image: url(w2.jpg) no-repeat fixed center;
+    background-image: url("w2.jpg") no-repeat fixed center;
     background-size: cover;
     background-position: center  ;
 }
